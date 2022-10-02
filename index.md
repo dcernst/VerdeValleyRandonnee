@@ -9,7 +9,7 @@ title: Verde Valley Randonneé
 
 Verde Valley Randonneé...
 
-<strong>Important!</strong> This is an unsanctioned event. There are no fees, no prizes, but all attempts will be made to record your finish time in comparison to others. A start time and route are provided and it is up to the participant to understand the route. Riders have full responsibility for their navigation and well being. The goal is to finish the entire route while setting your own pace.
+<strong>Important!</strong> This is an unsanctioned event. There are no fees. There are no prizes. A route is provided and it is up to the rider to understand and follow the route. Riders have full responsibility for their navigation and well being. The goal is to finish the entire route while setting your own pace.
 
 Below is the route.
 
