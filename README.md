@@ -1,3 +1,3 @@
-# Verde Valley Randonnee´
+# Verde Valley Randonneé
 
-Website for Verde Valley Randonnee´ Gravel Cycling Challenge.
+Website for Verde Valley Randonneé Gravel Cycling Challenge.
