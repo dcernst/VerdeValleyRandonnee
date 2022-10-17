@@ -11,19 +11,22 @@ According to [Randonneurs USA](https://rusa.org/pages/terminology), a "randonne�
 
 As with any published cycling route, riders may choose to ride the route in whatever style they choose.  Below are the guidelines for the intended style of this challenge.
 
-- Complete the entire route on the date of your choosing, under your own power.
-- Follow the GPX track as best you can. Small deviations and side trips are fine. Intentionally skipping part of the route is not okay.
-- Take a picture of yourself and/or your bike at each of the locations marked with a "camera" POI (point of interest) on the map posted below.
-- Support crews and prearranged support (included cached water, food, and gear) is not allowed.
-- However, visitation by friends, family is okay provided the visit is short and no support is provided.
-- Completing the route with a small group of riders is allowed and encouraged.  
-- Drafting among a group of riders is allowed.  
-- Sharing food, water, supplies, etc. among a group of riders is allowed.
-- Taking breaks, naps, and getting a full night's sleep is up to you.
-- Gas stations, restaurants, hotels, campgrounds, and any other commercial services along the route are fair game as long as they are not pre-arranged.
-- There is no time limit.
-- Practice “leave no trace”. In particular, do not litter!
-- Follow all traffic laws. You must use lights when riding at night on any public roads.
+<p><img src="{{ site.baseurl }}/images/VVRPatch.png" align="right" width="200" img style="margin: 4px 15px 0 0"/>
+<ul>
+<li>Complete the entire route on the date of your choosing, under your own power.</li>
+<li>Follow the GPX track as best you can. Small deviations and side trips are fine. Intentionally skipping part of the route is not okay.</li>
+<li>Take a picture of yourself and/or your bike at each of the locations marked with a "camera" POI (point of interest) on the map posted below.</li>
+<li>Support crews and prearranged support (included cached water, food, and gear) is not allowed.</li>
+<li>However, visitation by friends, family is okay provided the visit is short and no support is provided.</li>
+<li>Completing the route with a small group of riders is allowed and encouraged.</li>
+<li>Drafting among a group of riders is allowed.</li>
+<li>Sharing food, water, supplies, etc. among a group of riders is allowed.</li>
+<li>Taking breaks, naps, and getting a full night's sleep is up to you.</li>
+<li>Gas stations, restaurants, hotels, campgrounds, and any other commercial services along the route are fair game as long as they are not pre-arranged.</li>
+<li>There is no time limit.</li>
+<li>Practice “leave no trace”. In particular, do not litter!</li>
+<li>Follow all traffic laws. You must use lights when riding at night on any public roads.</li>
+</ul></p>
 
 <strong>Important!</strong> This is an unsanctioned event. There are no fees. There are no prizes. Riders have full responsibility for their navigation and well being. The goal is to finish the entire route while setting your own pace.
 
@@ -37,7 +40,7 @@ If you would like your name listed as a finisher, shoot me (Dana Ernst) an [emai
 - Any noteworthy comments about your experience.
 - Optional: Post about your experience on social media.  Feel free to tag [@VerdeValleyRandonnee](https://www.instagram.com/verdevalleyrandonnee/) on Instagram and use the hashtag #VerdeValleyRandonnee.
 
-<p><img src="{{ site.baseurl }}/images/VVRPatch.png" align="left" width="110" img style="margin: 4px 15px 0 0"/>  Every finisher is eligible for a free Verde Valley Randonneé patch, which was designed by [Wyatt Spalding](https://www.instagram.com/wyattspalding/?hl=en). If you would like a patch mailed to you, please include your mailing address in your email. </p>
+Every finisher is eligible for a free Verde Valley Randonneé patch, which was designed by [Wyatt Spalding](https://www.instagram.com/wyattspalding/?hl=en). If you would like a patch mailed to you, please include your mailing address in your email.
 
 Here is the route for the Verde Valley Randonneé. The published version starts in Flagstaff and follows the loop in the counterclockwise direction. Riders may go in either direction and may start anywhere on the loop.
 
