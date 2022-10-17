@@ -3,7 +3,7 @@ layout: default
 title: Verde Valley Randonneé
 ---
 
-According to [Randonneurs USA](https://rusa.org/pages/terminology), a "randonneé" is a long ramble in the countryside.  The Verde Valley Randonneé takes riders on a roughly 250-mile magnificent ramble of Northern Arizona.  The challenge is to ride the route in one go.  The published version starts in Flagstaff, AZ and follows the loop in the counterclockwise direction.  However, riders may go in either direction and may start anywhere on the loop. The route was designed so that it can be completed on a gravel bike, but without a doubt, there are some rough sections.
+According to [Randonneurs USA](https://rusa.org/pages/terminology), a "randonneé" is a long ramble in the countryside.  The Verde Valley Randonneé takes riders on a roughly 250-mile magnificent ramble of Northern Arizona.  The route is a mixture of gravel and pavement. The challenge is to ride the route in one go.  The published version starts in Flagstaff, AZ and follows the loop in the counterclockwise direction.  However, riders may go in either direction and may start anywhere on the loop. The route was designed so that it can be completed on a gravel bike, but without a doubt, there are some rough sections.
 
 As with any published cycling route, riders may choose to ride the route in whatever style they choose.  Below are the guidelines for the intended style of this challenge.
 
