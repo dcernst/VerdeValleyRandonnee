@@ -11,11 +11,11 @@ According to [Randonneurs USA](https://rusa.org/pages/terminology), a "randonne√
 
 As with any published cycling route, riders may choose to ride the route in whatever style they choose.  Below are the guidelines for the intended style of this challenge.
 
-<p><img src="{{ site.baseurl }}/images/VVRPatch.png" align="right" width="200" img style="margin: 4px 15px 0 0"/>
+<p><img src="{{ site.baseurl }}/images/VVRPatch.png" align="right" width="300" img style="margin: 4px 15px 15px 0"/>
 <ul>
 <li>Complete the entire route on the date of your choosing, under your own power.</li>
 <li>Follow the GPX track as best you can. Small deviations and side trips are fine. Intentionally skipping part of the route is not okay.</li>
-<li>Take a picture of yourself and/or your bike at each of the locations marked with a "camera" POI (point of interest) on the map posted below.</li>
+<li>Take a picture of yourself and/or your bike at each of the locations marked with a "Viewpoint" POI (point of interest) on the map posted below. Locations for photos: Flagstaff Bicycle Revolution, Parks General Store, bridge over Verde River, Jerome, Camp Verde, Stoneman Lake Overlook, Mormon Lake Village.</li>
 <li>Support crews and prearranged support (included cached water, food, and gear) is not allowed.</li>
 <li>However, visitation by friends, family is okay provided the visit is short and no support is provided.</li>
 <li>Completing the route with a small group of riders is allowed and encouraged.</li>
@@ -36,7 +36,7 @@ If you would like your name listed as a finisher, shoot me (Dana Ernst) an [emai
 - City and state of residence.
 - Start location and direction (clockwise vs counterclockwise).
 - Proof of completion of route (e.g., link to Strava or RideWithGPS, GPX file for your ride).
-- Pictures of yourself and/or your bike at each of the locations marked with a "camera" POI (point of interest) on the map posted below.
+- Pictures of yourself and/or your bike at each of the locations marked with a "viewpoint" POI (point of interest) on the map posted below.
 - Any noteworthy comments about your experience.
 - Optional: Post about your experience on social media.  Feel free to tag [@VerdeValleyRandonnee](https://www.instagram.com/verdevalleyrandonnee/) on Instagram and use the hashtag #VerdeValleyRandonnee.
 
