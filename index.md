@@ -3,11 +3,7 @@ layout: default
 title: Verde Valley Randonneé
 ---
 
-<!-- <img src="{{ site.baseurl }}/images/LockettMeadow.jpg" class="img-responsive img-rounded" img style="margin-bottom: 10px" /> -->
-
-<!-- <br> -->
-
-According to [Randonneurs USA](https://rusa.org/pages/terminology), a "randonneé" is a long ramble in the countryside.  The Verde Valley Randonneé takes riders on a 250-mile magnificent ramble of Northern Arizona.  The challenge is to ride the route in one go.  The published version starts in Flagstaff, AZ and follows the loop in the counterclockwise direction.  However, riders may go in either direction and may start anywhere on the loop.
+According to [Randonneurs USA](https://rusa.org/pages/terminology), a "randonneé" is a long ramble in the countryside.  The Verde Valley Randonneé takes riders on a roughly 250-mile magnificent ramble of Northern Arizona.  The challenge is to ride the route in one go.  The published version starts in Flagstaff, AZ and follows the loop in the counterclockwise direction.  However, riders may go in either direction and may start anywhere on the loop. The route was designed so that it can be completed on a gravel bike, but without a doubt, there are some rough sections.
 
 As with any published cycling route, riders may choose to ride the route in whatever style they choose.  Below are the guidelines for the intended style of this challenge.
 
@@ -42,7 +38,7 @@ If you would like your name listed as a finisher, shoot me (Dana Ernst) an [emai
 
 Every finisher is eligible for a free Verde Valley Randonneé patch (see image above), which was designed by [Wyatt Spalding](https://www.instagram.com/wyattspalding/?hl=en). If you would like a patch mailed to you, please include your mailing address in your email.
 
-Here is the route for the Verde Valley Randonneé. The published version starts in Flagstaff and follows the loop in the counterclockwise direction. Riders may go in either direction and may start anywhere on the loop.
+Here is the route for the Verde Valley Randonneé. The published version starts in Flagstaff and follows the loop in the counterclockwise direction. Riders may go in either direction and may start anywhere on the loop. The route was designed so that it can be completed on a gravel bike, but keep in mind that this is Arizona and there are rocks everywhere. The roughest section is probably miles 131-145.
 
 <br>
 
