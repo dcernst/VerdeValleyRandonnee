@@ -4,10 +4,6 @@ author: Dana Ernst
 layout: default
 ---
 
-<img src="{{ site.baseurl }}/images/Aspens-Refsnider.jpg" class="img-responsive img-rounded" img style="margin-bottom: 10px" />
-
-<i class="fas fa-camera fa-lg"></i>&nbsp; Photo by <a href="https://www.ultramtb.net/about-kurt-refsnider.html#/" target="_blank">Kurt Refsnider</a>
-
 If you would like your name listed as a finisher, shoot me (Dana Ernst) an [email](mailto:ernst.tribe@gmail.com) with the following information:
 
 - Your name.
