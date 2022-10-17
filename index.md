@@ -39,7 +39,6 @@ If you would like your name listed as a finisher, shoot me (Dana Ernst) an [emai
 
 <p><img src="{{ site.baseurl }}/images/VVRPatch.png" align="left" width="110" img style="margin: 4px 15px 0 0"/>  Every finisher is eligible for a free Verde Valley Randonneé patch, which was designed by [Wyatt Spalding](https://www.instagram.com/wyattspalding/?hl=en). If you would like a patch mailed to you, please include your mailing address in your email. </p>
 
-
 Here is the route for the Verde Valley Randonneé. The published version starts in Flagstaff and follows the loop in the counterclockwise direction. Riders may go in either direction and may start anywhere on the loop.
 
 <br>
