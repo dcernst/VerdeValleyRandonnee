@@ -11,7 +11,7 @@ According to [Randonneurs USA](https://rusa.org/pages/terminology), a "randonne√
 
 As with any published cycling route, riders may choose to ride the route in whatever style they choose.  Below are the guidelines for the intended style of this challenge.
 
-<p><img src="{{ site.baseurl }}/images/VVRPatch.png" align="right" width="300" img style="margin: 4px 15px 15px 0"/>
+<p><img src="{{ site.baseurl }}/images/VVRPatch.png" align="right" width="300" img style="margin: 15px 15px 15px 0"/>
 <ul>
 <li>Complete the entire route on the date of your choosing, under your own power.</li>
 <li>Follow the GPX track as best you can. Small deviations and side trips are fine. Intentionally skipping part of the route is not okay.</li>
