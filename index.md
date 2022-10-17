@@ -40,7 +40,7 @@ If you would like your name listed as a finisher, shoot me (Dana Ernst) an [emai
 - Any noteworthy comments about your experience.
 - Optional: Post about your experience on social media.  Feel free to tag [@VerdeValleyRandonnee](https://www.instagram.com/verdevalleyrandonnee/) on Instagram and use the hashtag #VerdeValleyRandonnee.
 
-Every finisher is eligible for a free Verde Valley Randonneé patch, which was designed by [Wyatt Spalding](https://www.instagram.com/wyattspalding/?hl=en). If you would like a patch mailed to you, please include your mailing address in your email.
+Every finisher is eligible for a free Verde Valley Randonneé patch (see image above), which was designed by [Wyatt Spalding](https://www.instagram.com/wyattspalding/?hl=en). If you would like a patch mailed to you, please include your mailing address in your email.
 
 Here is the route for the Verde Valley Randonneé. The published version starts in Flagstaff and follows the loop in the counterclockwise direction. Riders may go in either direction and may start anywhere on the loop.
 
