@@ -34,23 +34,6 @@ As with any published cycling route, riders may choose to ride the route in what
 </div>
 </div>
 
-<!-- <p><img src="{{ site.baseurl }}/images/VVRPatch.png" align="right" width="300" img style="margin: 15px 15px 15px 0"/>
-<ul>
-<li>Complete the entire route on the date of your choosing, under your own power.</li>
-<li>Follow the GPX track as best you can. Small deviations and side trips are fine. Intentionally skipping part of the route is not okay.</li>
-<li>Take a picture of yourself and/or your bike at each of the locations marked with a "Viewpoint" POI (point of interest) on the map posted below. Locations for photos: Flagstaff Bicycle Revolution, Parks General Store, bridge over Verde River, Jerome, Camp Verde, Stoneman Lake Overlook, Mormon Lake Village.</li>
-<li>Support crews and prearranged support (included cached water, food, and gear) is not allowed.</li>
-<li>However, visitation by friends, family is okay provided the visit is short and no support is provided.</li>
-<li>Completing the route with a small group of riders is allowed and encouraged.</li>
-<li>Drafting among a group of riders is allowed.</li>
-<li>Sharing food, water, supplies, etc. among a group of riders is allowed.</li>
-<li>Taking breaks, naps, and getting a full night's sleep is up to you.</li>
-<li>Gas stations, restaurants, hotels, campgrounds, and any other commercial services along the route are fair game as long as they are not pre-arranged.</li>
-<li>There is no time limit.</li>
-<li>Practice “leave no trace”. In particular, do not litter!</li>
-<li>Follow all traffic laws. You must use lights when riding at night on any public roads.</li>
-</ul></p> -->
-
 <strong>Important!</strong> This is an unsanctioned event. There are no fees. There are no prizes. Riders have full responsibility for their navigation and well being. The goal is to finish the entire route while setting your own pace.
 
 If you would like your name listed as a finisher, shoot me (Dana Ernst) an [email](mailto:ernst.tribe@gmail.com) with the following information:
