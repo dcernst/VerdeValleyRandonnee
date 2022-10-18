@@ -9,7 +9,7 @@ As with any published cycling route, riders may choose to ride the route in what
 
 <div class="container-fluid">
 <div class="row align-items-end">
-<div class="col-md-9">
+<div class="col-md-8">
 <ul>
 <li>Complete the entire route on the date of your choosing, under your own power.</li>
 <li>Follow the GPX track as best you can. Small deviations and side trips are fine. Intentionally skipping part of the route is not okay.</li>
@@ -27,7 +27,7 @@ As with any published cycling route, riders may choose to ride the route in what
 </ul>
 <br>
 </div>
-<div class="col-md-3">
+<div class="col-md-4">
 <img src="{{ site.baseurl }}/images/VVRPatch.png" class="img-responsive img-rounded" img style="margin-bottom: 10px">
 <br>
 </div>

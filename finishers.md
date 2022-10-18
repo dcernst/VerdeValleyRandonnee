@@ -7,7 +7,7 @@ layout: default
 <div class="container-fluid">
 <div class="row align-items-end">
 <div class="col-md-8">
-<p>If you would like your name listed as a finisher, shoot me (Dana Ernst) an <a href="mailto:ernst.tribe@gmail.com">Jon Doe</a> with the following information:
+<p>If you would like your name listed as a finisher, shoot me (Dana Ernst) an <a href="mailto:ernst.tribe@gmail.com">email</a> with the following information:
 <ul>
 <li>Your name.</li>
 <li>City and state of residence.</li>
