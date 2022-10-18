@@ -34,9 +34,7 @@ As with any published cycling route, riders may choose to ride the route in what
 </div>
 </div>
 
-
-
-<p><img src="{{ site.baseurl }}/images/VVRPatch.png" align="right" width="300" img style="margin: 15px 15px 15px 0"/>
+<!-- <p><img src="{{ site.baseurl }}/images/VVRPatch.png" align="right" width="300" img style="margin: 15px 15px 15px 0"/>
 <ul>
 <li>Complete the entire route on the date of your choosing, under your own power.</li>
 <li>Follow the GPX track as best you can. Small deviations and side trips are fine. Intentionally skipping part of the route is not okay.</li>
@@ -51,7 +49,7 @@ As with any published cycling route, riders may choose to ride the route in what
 <li>There is no time limit.</li>
 <li>Practice “leave no trace”. In particular, do not litter!</li>
 <li>Follow all traffic laws. You must use lights when riding at night on any public roads.</li>
-</ul></p>
+</ul></p> -->
 
 <strong>Important!</strong> This is an unsanctioned event. There are no fees. There are no prizes. Riders have full responsibility for their navigation and well being. The goal is to finish the entire route while setting your own pace.
 
