@@ -15,7 +15,7 @@ layout: default
 <li>Proof of completion of route (e.g., link to Strava or RideWithGPS, GPX file for your ride).</li>
 <li>Pictures of yourself and/or your bike at each of the locations marked with a "camera" POI (point of interest) on the map posted below. Locations for photos: Flagstaff Bicycle Revolution, Parks General Store, bridge over Verde River, Jerome, Camp Verde, Stoneman Lake Overlook, Mormon Lake Village.</li>
 <li>Any noteworthy comments about your experience.</li>
-<li>Optional: Post about your experience on social media.  Feel free to tag <a href="https://www.instagram.com/verdevalleyrandonnee/>"@VerdeValleyRandonnee</a> on Instagram and use the hashtag #VerdeValleyRandonnee.</li>
+<li>Optional: Post about your experience on social media.  Feel free to tag <a href="https://www.instagram.com/verdevalleyrandonnee/">@VerdeValleyRandonnee</a> on Instagram and use the hashtag #VerdeValleyRandonnee.</li>
 </ul>
 </p>
 <br>
