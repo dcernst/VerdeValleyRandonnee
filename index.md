@@ -53,9 +53,8 @@ Here is the route for the Verde Valley Randonneé. The published version starts 
 <br>
 
 <center>
-<iframe src="https://ridewithgps.com/embeds?type=route&id=38971796&sampleGraph=true&distanceMarkers=true&showPhotos=true" style="width: 1px; min-width: 90%; height: 700px; border: none;" scrolling="no"></iframe></center>
-
-
+<iframe src="https://ridewithgps.com/embeds?type=route&id=38971796&sampleGraph=true&distanceMarkers=true&showPhotos=true" style="width: 1px; min-width: 90%; height: 700px; border: none;" scrolling="no"></iframe>
+</center>
 
 <br>
 
