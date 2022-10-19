@@ -25,11 +25,11 @@ As with any published cycling route, riders may choose to ride the route in what
 <li>Practice “leave no trace”. In particular, do not litter!</li>
 <li>Follow all traffic laws. You must use lights when riding at night on any public roads.</li>
 </ul>
-<br>
+<!-- <br> -->
 </div>
 <div class="col-md-4">
 <img src="{{ site.baseurl }}/images/VVRPatch.png" class="img-responsive img-rounded" img style="margin-bottom: 10px">
-<br>
+<!-- <br> -->
 </div>
 </div>
 </div>
@@ -55,5 +55,9 @@ Here is the route for the Verde Valley Randonneé. The published version starts 
 <center>
 <iframe src="https://ridewithgps.com/embeds?type=route&id=38971796&sampleGraph=true" style="width: 1px; min-width: 90%; height: 700px; border: none;" scrolling="no"></iframe>
 </center>
+
+<br>
+
+You can find a clockwise version (with some minor adjustments to account for one-way streets in Flagstaff) of the route [here](https://ridewithgps.com/routes/41248484).
 
 <br>
