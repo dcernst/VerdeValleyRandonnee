@@ -17,7 +17,7 @@ layout: default
 <li>Any noteworthy comments about your experience.</li>
 <li>Optional: Post about your experience on social media.  Feel free to tag <a href="https://www.instagram.com/verdevalleyrandonnee/">@VerdeValleyRandonnee</a> on Instagram and use the hashtag #VerdeValleyRandonnee.</li>
 </ul>
-Every finisher is eligible for a free Verde Valley Randonneé patch, which was designed by [Wyatt Spalding](https://www.instagram.com/wyattspalding/?hl=en). If you would like a patch mailed to you, please include your mailing address in your email.
+Every finisher is eligible for a free Verde Valley Randonneé patch, which was designed by <a href="https://www.instagram.com/wyattspalding/?hl=en">Wyatt Spalding</a>. If you would like a patch mailed to you, please include your mailing address in your email.
 </p>
 <br>
 </div>
