@@ -6,7 +6,7 @@ layout: default
 
 <div class="container-fluid">
 <div class="row align-items-end">
-<div class="col-md-8">
+<div class="col-md-9">
 <p>If you would like your name listed as a finisher, shoot me (Dana Ernst) an <a href="mailto:ernst.tribe@gmail.com">email</a> with the following information:
 <ul>
 <li>Your name.</li>
@@ -17,17 +17,16 @@ layout: default
 <li>Any noteworthy comments about your experience.</li>
 <li>Optional: Post about your experience on social media.  Feel free to tag <a href="https://www.instagram.com/verdevalleyrandonnee/">@VerdeValleyRandonnee</a> on Instagram and use the hashtag #VerdeValleyRandonnee.</li>
 </ul>
+Every finisher is eligible for a free Verde Valley Randonneé patch, which was designed by [Wyatt Spalding](https://www.instagram.com/wyattspalding/?hl=en). If you would like a patch mailed to you, please include your mailing address in your email.
 </p>
 <br>
 </div>
-<div class="col-md-4">
+<div class="col-md-3">
 <img src="{{ site.baseurl }}/images/VVRPatch.png" class="img-responsive img-rounded" img style="margin-bottom: 10px">
 <br>
 </div>
 </div>
 </div>
-
-Every finisher is eligible for a free Verde Valley Randonneé patch, which was designed by [Wyatt Spalding](https://www.instagram.com/wyattspalding/?hl=en). If you would like a patch mailed to you, please include your mailing address in your email.
 
 ## Finishers
 
