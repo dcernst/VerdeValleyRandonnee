@@ -37,6 +37,7 @@ Every finisher is eligible for a free Verde Valley Randonneé patch, which was d
 <tr>
 <th>Name</th>
 <th>Hometown</th>
+<th>Start Date</th>
 <th>Start Location</th>
 <th>Direction</th>
 <th>Elapsed Time</th>
@@ -46,7 +47,7 @@ Every finisher is eligible for a free Verde Valley Randonneé patch, which was d
 
 <tbody>
 <tr>
-<td><a href="https://www.instagram.com/ezra.ward.packard/">Ezra Ward-Packard</a></td> <td>Van Life</td> <td>Flagstaff</td> <td>Counterclockwise</td> <td>24 hours, 23 minutes</td> <td>Ezra's ride on <a href="https://www.strava.com/activities/8027204031/">Strava</a></td>
+<td><a href="https://www.instagram.com/ezra.ward.packard/">Ezra Ward-Packard</a></td> <td>Van Life</td> <td>October 26, 2022</td> <td>Flagstaff</td> <td>Counterclockwise</td> <td>24 hours, 36 minutes</td> <td>Ezra's ride on <a href="https://www.strava.com/activities/8027204031/">Strava</a></td>
 </tr>
 </tbody>
 
