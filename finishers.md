@@ -48,14 +48,14 @@ Every finisher is eligible for a free Verde Valley Randonneé patch, which was d
 <tbody>
 <tr>
 <td><a href="https://www.instagram.com/ezra.ward.packard/">Ezra Ward-Packard</a></td> <td>Flagstaff, AZ</td> <td>October 26, 2022</td> <td>Flagstaff</td> <td>Counterclockwise</td> <td>24 hours, 36 minutes</td> <td>Ezra's ride on <a href="https://www.strava.com/activities/8027204031/">Strava.</a></td>
-
+</tr>
+<tr>
 <td><a href="https://www.instagram.com/dcernst/">Dana Ernst</a></td> <td>Flagstaff, AZ</td> <td>October 29, 2022</td> <td>Flagstaff</td> <td>Counterclockwise</td> <td>23 hours, 19 minutes</td> <td>Rode with Jacob Miller. Dana's ride on <a href="https://www.strava.com/activities/8041489765">Strava.</a></td>
-
+</tr>
+<tr>
 <td><a href="https://www.instagram.com/jobymiller2/">Jacob Miller</a></td> <td>Flagstaff, AZ</td> <td>October 29, 2022</td> <td>Flagstaff</td> <td>Counterclockwise</td> <td>23 hours, 19 minutes</td> <td>Rode with Dana Ernst. Jacob's ride on <a href="https://www.strava.com/activities/8043371627">Strava.</a></td>
-
 </tr>
 </tbody>
-
 </table>
 </div>
 </center>
