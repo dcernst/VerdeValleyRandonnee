@@ -55,6 +55,9 @@ Every finisher is eligible for a free Verde Valley Randonneé patch, which was d
 <tr>
 <td><a href="https://www.instagram.com/jobymiller2/">Jacob Miller</a></td> <td>Flagstaff, AZ</td> <td>October 29, 2022</td> <td>Flagstaff</td> <td>Counterclockwise</td> <td>23 hours, 19 minutes</td> <td>Rode with Dana Ernst. Jacob's ride on <a href="https://www.strava.com/activities/8043371627">Strava.</a></td>
 </tr>
+<tr>
+<td><a href="https://www.instagram.com/theseasonedbikepacker/">Dylan Turner</a></td> <td>Flagstaff, AZ</td> <td>November 1, 2022</td> <td>Flagstaff</td> <td>Counterclockwise</td> <td>26 hours, 45 minutes</td> <td>Dylan's ride on <a href="https://www.strava.com/activities/8059954882">Strava.</a></td>
+</tr>
 </tbody>
 </table>
 </div>
