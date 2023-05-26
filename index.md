@@ -45,7 +45,7 @@ If you would like your name listed as a finisher, shoot me (Dana Ernst) an [emai
 - Pictures of yourself and/or your bike at each of the locations marked with a "viewpoint" POI (point of interest) on the map posted below.
 - Any noteworthy comments about your experience.
 - Optional: Post about your experience on social media.  Feel free to tag [@VerdeValleyRandonnee](https://www.instagram.com/verdevalleyrandonnee/) on Instagram and use the hashtag #VerdeValleyRandonnee.
-- Optional: sign up for live tracking with [Follow My Challenge](https://form.jotform.com/followmychallengeusa/verde-valley-randonnee) ($25 fee to FMC). Live tracking [here]({{ site.baseurl }}/FMC).
+- Optional: sign up for live tracking with [Follow My Challenge](https://form.jotform.com/followmychallengeusa/verdevalleyrandonnee) ($25 fee to FMC). Live tracking [here]({{ site.baseurl }}/FMC).
 
 Every finisher is eligible for a free Verde Valley Randonneé patch (see image above), which was designed by [Wyatt Spalding](https://www.instagram.com/wyattspalding/?hl=en). If you would like a patch mailed to you, please include your mailing address in your email.
 
