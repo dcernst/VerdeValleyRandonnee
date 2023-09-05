@@ -34,20 +34,22 @@ As with any published cycling route, riders may choose to ride the route in what
 </div>
 </div>
 
+<strong>Important!</strong> This is an unsanctioned event. There are no fees. There are no prizes. Riders have full responsibility for their navigation and well being. The goal is to finish the entire route while setting your own pace.
+
 <div class="row">
 <div class="col-md-2 col-lg-2">
 </div>
 <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
 <div class="alert alert-info" role="alert">
-<center>
 <i class="fas fa-bicycle fa-lg"></i>&nbsp; There will be a low-key grand depart for the Verde Valley Randonneé on <strong>Saturday, September 30</strong>.  If you are interested, be ready to roll out at 5am from at Flagstaff Bicycle Revolution.  There is no official sign up, but you are encouraged to sign up for tracking on <a href="https://form.jotform.com/followmychallengeusa/verdevalleyrandonnee">Follow My Challenge</a> ($30 fee to FMC). You can ride the route clockwise or counterclockwise (most folks will ride counterclockwise).  Ride fast or take as long as you'd like. Just follow the rules (see above).  Every finisher will get a patch.
-</center>
+
+<hr>
+
+Of course, you are welcome to ride the route at any time!  Solo or with your friends.
 </div>
 </div>
 <div class="col-md-2 col-lg-2"></div>
 </div>
-
-<strong>Important!</strong> This is an unsanctioned event. There are no fees. There are no prizes. Riders have full responsibility for their navigation and well being. The goal is to finish the entire route while setting your own pace.
 
 If you would like your name listed as a finisher, shoot me (Dana Ernst) an [email](mailto:ernst.tribe@gmail.com) with the following information:
 
