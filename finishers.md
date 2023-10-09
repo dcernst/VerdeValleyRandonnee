@@ -65,7 +65,7 @@ Every finisher is eligible for a free Verde Valley Randonneé patch, which was d
 <td><a href="https://www.instagram.com/p/CuFsSoTuSi7/">Aidan Woloszyn</a></td> <td>Flagstaff, AZ</td> <td>10/3/2023</td> <td>Flagstaff</td> <td>Counterclockwise</td> <td>55 hours, 23 minutes</td> <td>Rode with Austin Woloszyn, Aidan's ride on <a href="https://www.strava.com/activities/9988364663">Strava</a>.</td>
 </tr>
 <tr>
-<td><a href="https://www.instagram.com/austin.wolo/">Austin Woloszyn</a></td> <td>Unknown</td> <td>10/3/2023</td> <td>Flagstaff</td> <td>Counterclockwise</td> <td>55 hours, 23 minutes</td> <td>Rode with Aidan Woloszyn.</td>
+<td><a href="https://www.instagram.com/austin.wolo/">Austin Woloszyn</a></td> <td>Flagstaff, AZ</td> <td>10/3/2023</td> <td>Flagstaff</td> <td>Counterclockwise</td> <td>55 hours, 23 minutes</td> <td>Rode with Aidan Woloszyn.</td>
 </tr>
 </tbody>
 </table>
