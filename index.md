@@ -5,6 +5,8 @@ title: Verde Valley Randonneé
 
 According to [Randonneurs USA](https://rusa.org/pages/terminology), a "randonneé" is a long ramble in the countryside.  The Verde Valley Randonneé takes riders on a roughly 250-mile magnificent ramble of Northern Arizona.  The route is a mixture of gravel and pavement. The challenge is to ride the route in one go.  The published version starts in Flagstaff, AZ and follows the loop in the counterclockwise direction.  However, riders may go in either direction and may start anywhere on the loop. The route was designed so that it can be completed on a gravel bike, but without a doubt, there are some rough sections.
 
+The route is now a RUSA permanent!  See [permanent #04926](https://rusa.org/cgi-bin/permview_GF.pl?permid=4926).
+
 As with any published cycling route, riders may choose to ride the route in whatever style they choose.  Below are the guidelines for the intended style of this challenge.
 
 <div class="container-fluid">
@@ -36,7 +38,7 @@ As with any published cycling route, riders may choose to ride the route in what
 
 <strong>Important!</strong> This is an unsanctioned event. There are no fees. There are no prizes. Riders have full responsibility for their navigation and well being. The goal is to finish the entire route while setting your own pace.
 
-<div class="row">
+<!-- <div class="row">
 <div class="col-md-2 col-lg-2">
 </div>
 <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
@@ -49,7 +51,7 @@ Of course, you are welcome to ride the route at any time!  Solo or with your fri
 </div>
 </div>
 <div class="col-md-2 col-lg-2"></div>
-</div>
+</div> -->
 
 If you would like your name listed as a finisher, shoot me (Dana Ernst) an [email](mailto:ernst.tribe@gmail.com) with the following information:
 
@@ -69,7 +71,8 @@ Here is the route for the Verde Valley Randonneé. The published version starts 
 <br>
 
 <center>
-<iframe src="https://ridewithgps.com/embeds?type=route&id=38971796&sampleGraph=true&distanceMarkers=true&showPhotos=true" style="width: 1px; min-width: 90%; height: 700px; border: none;" scrolling="no"></iframe>
+<iframe src="https://ridewithgps.com/embeds?type=route&id=45268129&sampleGraph=true" style="width: 1px; min-width: 90%; height: 700px; border: none;" scrolling="no"></iframe>
+<!-- <iframe src="https://ridewithgps.com/embeds?type=route&id=38971796&sampleGraph=true&distanceMarkers=true&showPhotos=true" style="width: 1px; min-width: 90%; height: 700px; border: none;" scrolling="no"></iframe> -->
 </center>
 
 <br>
