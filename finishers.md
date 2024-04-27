@@ -59,13 +59,19 @@ Every finisher is eligible for a free Verde Valley Randonneé patch, which was d
 <td><a href="https://youtube.com/c/TheSeasonedBikepacker">Dylan Turner</a></td> <td>Flagstaff, AZ</td> <td>11/1/2022</td> <td>Flagstaff</td> <td>Counterclockwise</td> <td>26 hours, 45 minutes</td> <td>Dylan's ride on <a href="https://www.strava.com/activities/8059954882">Strava</a>, video recap on <a href="https://www.instagram.com/tv/CkgyU4eAbcx/?igshid=YmMyMTA2M2Y%3D">Instagram</a>.</td>
 </tr>
 <tr>
-<td><a href="https://youtube.com/c/TheSeasonedBikepacker">Dylan Turner</a></td> <td>Flagstaff, AZ</td> <td>9/30/2023</td> <td>Flagstaff</td> <td>Counterclockwise</td> <td>25 hours, 56 minutes</td> <td>1.5-hour delay for road near before Verde River, Dylan's ride on <a href="https://www.strava.com/activities/9956665858">Strava</a>.</td>
+<td><a href="https://youtube.com/c/TheSeasonedBikepacker">Dylan Turner</a></td> <td>Flagstaff, AZ</td> <td>9/30/2023</td> <td>Flagstaff</td> <td>Counterclockwise</td> <td>25 hours, 56 minutes</td> <td>1.5-hour delay for road closure near Verde River, Dylan's ride on <a href="https://www.strava.com/activities/9956665858">Strava</a>.</td>
 </tr>
 <tr>
 <td><a href="https://www.instagram.com/p/CuFsSoTuSi7/">Aidan Woloszyn</a></td> <td>Flagstaff, AZ</td> <td>10/3/2023</td> <td>Flagstaff</td> <td>Counterclockwise</td> <td>55 hours, 23 minutes</td> <td>Rode with Austin Woloszyn, Aidan's ride on <a href="https://www.strava.com/activities/9988364663">Strava</a>.</td>
 </tr>
 <tr>
 <td><a href="https://www.instagram.com/austin.wolo/">Austin Woloszyn</a></td> <td>Flagstaff, AZ</td> <td>10/3/2023</td> <td>Flagstaff</td> <td>Counterclockwise</td> <td>55 hours, 23 minutes</td> <td>Rode with Aidan Woloszyn.</td>
+</tr>
+<tr>
+<td><a href="https://www.instagram.com/dcernst/">Dana Ernst</a></td> <td>Flagstaff, AZ</td> <td>4/20/2024</td> <td>Flagstaff</td> <td>Counterclockwise</td> <td>19 hours, 17 minutes</td> <td>Started with a small group including Dylan Turner, Dana's ride on <a href="https://www.strava.com/activities/11229228703">Strava</a>.</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/@TheEnduranceStudio/featured">Dylan Turner</a></td> <td>Flagstaff, AZ</td> <td>4/20/2024</td> <td>Flagstaff</td> <td>Counterclockwise</td> <td>22 hours, 36 minutes</td> <td>Started with a small group including Dana Ernst.</td>
 </tr>
 </tbody>
 </table>
