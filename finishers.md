@@ -77,7 +77,7 @@ Every finisher is eligible for a free Verde Valley Randonneé patch, which was d
 <td><a href="https://www.instagram.com/jeffkerkove/">Jeff Kerkove</a></td> <td>Buena Vista, CO</td> <td>4/29/2024</td> <td>Flagstaff</td> <td>CCW</td> <td>20 hours, 5 mins</td> <td>Jeff's ride on <a href="https://www.strava.com/activities/11296962400">Strava</a>.</td>
 </tr>
 <tr>
-<td><a href="https://www.instagram.com/kopeus/">Dexter Kopas</a></td> <td>Tucson, AZ</td> <td>5/4/2024</td> <td>Camp Verde</td> <td>CCW</td> <td>18 hours, 30 minutes</td> <td>Jeff's ride on <a href="https://www.strava.com/activities/11335138422">Strava</a></td>
+<td><a href="https://www.instagram.com/kopeus/">Dexter Kopas</a></td> <td>Tucson, AZ</td> <td>5/4/2024</td> <td>Camp Verde</td> <td>CCW</td> <td>18 hours, 30 minutes</td> <td>Dexter's ride on <a href="https://www.strava.com/activities/11335138422">Strava</a></td>
 </tr>
 </tbody>
 </table>
