@@ -80,7 +80,7 @@ Every finisher is eligible for a free Verde Valley Randonneé patch, which was d
 <td><a href="https://www.instagram.com/kopeus/">Dexter Kopas</a></td> <td>Tucson, AZ</td> <td>5/4/2024</td> <td>Camp Verde</td> <td>CCW</td> <td>18 hours, 30 minutes</td> <td>Dexter's ride on <a href="https://www.strava.com/activities/11335138422">Strava</a></td>
 </tr>
 <tr>
-<td><a href="https://www.instagram.com/kopeus/">Ethan Albrecht</a></td> <td>Edwards AFB, CA</td> <td>5/25/2024</td> <td>Flagstaff</td> <td>CCW</td> <td>22 hours, 9 minutes</td> <td>Ethan's ride on <a href="https://www.strava.com/activities/11500019477">Strava</a></td>
+<td><a href="https://www.instagram.com/softkittenkasting/">Ethan Albrecht</a></td> <td>Lancaster, CA</td> <td>5/25/2024</td> <td>Flagstaff</td> <td>CCW</td> <td>22 hours, 9 minutes</td> <td>Ethan's ride on <a href="https://www.strava.com/activities/11500019477">Strava</a></td>
 </tr>
 </tbody>
 </table>
