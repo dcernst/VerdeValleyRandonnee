@@ -18,7 +18,7 @@ As with any published cycling route, riders may choose to ride the route in what
 <li>Complete the entire route on the date of your choosing, under your own power.</li>
 <li>Follow the GPX track as best you can. Small deviations and side trips are fine. Intentionally skipping part of the route is not okay.</li>
 <li>Take a picture of yourself and/or your bike at each of the locations marked with a "Viewpoint" POI (point of interest) on the map posted below. Locations for photos: Flagstaff Bicycle Revolution, Parks General Store, bridge over Verde River, Jerome, Camp Verde, Stoneman Lake Overlook, Mormon Lake Village.</li>
-<li>Support crews and prearranged support (included cached water, food, and gear) is not allowed.</li>
+<li>Support crews and prearranged support (including cached water, food, and gear) is not allowed.</li>
 <li>However, visitation by friends, family is okay provided the visit is short and no support is provided.</li>
 <li>Completing the route with a small group of riders is allowed and encouraged.</li>
 <li>Drafting among a group of riders is allowed.</li>
