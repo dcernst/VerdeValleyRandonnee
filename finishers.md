@@ -80,7 +80,21 @@ Every finisher is eligible for a free Verde Valley Randonneé patch, which was d
 <td><a href="https://www.instagram.com/kopeus/">Dexter Kopas</a></td> <td>Tucson, AZ</td> <td>5/4/2024</td> <td>Camp Verde</td> <td>CCW</td> <td>18 hours, 30 minutes</td> <td>Dexter's ride on <a href="https://www.strava.com/activities/11335138422">Strava</a></td>
 </tr>
 <tr>
-<td><a href="https://www.instagram.com/softkittenkasting/">Ethan Albrecht</a></td> <td>Lancaster, CA</td> <td>5/25/2024</td> <td>Flagstaff</td> <td>CCW</td> <td>22 hours, 9 minutes</td> <td>Ethan's ride on <a href="https://www.strava.com/activities/11500019477">Strava</a></td>
+<td>Brad Mattingly</td> <td>Flagstaff, AZ</td> <td>10/4/2024</td> <td>Flagstaff</td> <td>CW</td> <td>48 hours, 28 minutes</td> <td>First person to ride route clockwise!</td>
+</tr>
+
+<tr>
+<td><a href="https://www.youtube.com/@TheEnduranceStudio/featured">Dylan Turner</a></td> <td>Flagstaff, AZ</td> <td>10/13/2024</td> <td>Flagstaff</td> <td>CW</td> <td>54 hours</td> <td>Rode with Dan Hughes and Tyler Hughes.</td>
+</tr>
+
+<tr>
+<td><a href="https://www.instagram.com/tylerhasaphone/">Tyler Hughes</a></td> <td>Flagstaff, AZ</td> <td>10/13/2024</td> <td>Flagstaff</td> <td>CW</td> <td>54 hours</td> <td>Rode with Dan Hughes and Dylan Turner.</td>
+</tr>
+
+<tr>
+<td>Dan Hughes</td> <td>Santa Cruz, CA</td> <td>10/13/2024</td> <td>Flagstaff</td> <td>CW</td> <td>54 hours</td> <td>Rode with Tyler Hughes and Dylan Turner.</td>
+</tr>
+
 </tr>
 </tbody>
 </table>
