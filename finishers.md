@@ -47,7 +47,7 @@ Every finisher is eligible for a free Verde Valley Randonneé patch, which was d
 
 <tbody>
 <tr>
-<td><a href="https://www.instagram.com/ezra.ward.packard/">Ezra Ward-Packard</a></td> <td>Flagstaff, AZ</td> <td>10/26/ 2022</td> <td>Flagstaff</td> <td>CCW</td> <td>24 hours, 36 mins</td> <td>Ezra's ride on <a href="https://www.strava.com/activities/8027204031/">Strava</a>.</td>
+<td><a href="https://www.instagram.com/ezra.ward.packard/">Ezra Ward-Packard</a></td> <td>Flagstaff, AZ</td> <td>10/26/2022</td> <td>Flagstaff</td> <td>CCW</td> <td>24 hours, 36 mins</td> <td>Ezra's ride on <a href="https://www.strava.com/activities/8027204031/">Strava</a>.</td>
 </tr>
 
 <tr>
