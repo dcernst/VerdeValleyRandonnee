@@ -106,6 +106,14 @@ Every finisher is eligible for a free Verde Valley Randonneé patch, which was d
 <td>Dan Hughes</td> <td>Santa Cruz, CA</td> <td>10/13/2024</td> <td>Flagstaff</td> <td>CW</td> <td>54 hours</td> <td>Rode with Tyler Hughes and Dylan Turner.</td>
 </tr>
 
+<tr>
+<td><a href="https://www.instagram.com/ultraleisurist27/">James Willis</a></td> <td>Flagstaff, AZ</td> <td>11/8/2024</td> <td>Flagstaff</td> <td>CW</td> <td>48 hours, 5 minutes</td> <td>Rode with Brandon Bettes. Both rode singlespeeds!</td>
+</tr>
+
+<tr>
+<td><a href="https://www.instagram.com/gnar_nasty/">Brandon Bettes</a></td> <td>Flagstaff, AZ</td> <td>11/8/2024</td> <td>Flagstaff</td> <td>CW</td> <td>48 hours, 5 minutes</td> <td>Rode with James Willis. Both rode singlespeeds!</td>
+</tr>
+
 </tbody>
 </table>
 </div>
