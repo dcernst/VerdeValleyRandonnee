@@ -33,7 +33,8 @@ As with any published cycling route, riders may choose to ride the route in what
 </div>
 <div class="col-md-4">
 <img src="{{ site.baseurl }}/images/VVRPatch.png" class="img-responsive img-rounded" img style="margin-bottom: 10px">
-<!-- <br> -->
+<br>
+<a target="_blank" href="https://buymeacoffee.com/danaernst"><img src="{{ site.baseurl }}/images/bmc-button.png" class="img-responsive img-rounded" width="80%" style="margin-bottom: 5px; margin-top: 5px; margin-left: auto; margin-right: auto;" alt="Buy Me a Coffee"/></a>
 </div>
 </div>
 </div>
