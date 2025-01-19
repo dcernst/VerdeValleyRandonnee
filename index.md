@@ -33,11 +33,13 @@ As with any published cycling route, riders may choose to ride the route in what
 </div>
 <div class="col-md-4">
 <img src="{{ site.baseurl }}/images/VVRPatch.png" class="img-responsive img-rounded" img style="margin-bottom: 10px">
+<!-- <br> -->
+<a target="_blank" href="https://buymeacoffee.com/danaernst"><img src="{{ site.baseurl }}/images/bmc.png" class="img-responsive img-rounded" width="80%" style="margin-bottom: 10px; margin-top: 10px; margin-left: auto; margin-right: auto;" alt="Buy Me a Coffee"/></a>
+</div>
+</div>
+</div>
+
 <br>
-<a target="_blank" href="https://buymeacoffee.com/danaernst"><img src="{{ site.baseurl }}/images/bmc.png" class="img-responsive img-rounded" width="80%" style="margin-bottom: 10px; margin-top: 5px; margin-left: auto; margin-right: auto;" alt="Buy Me a Coffee"/></a>
-</div>
-</div>
-</div>
 
 <strong>Important!</strong> This is an unsanctioned event. There are no fees. There are no prizes. Riders have full responsibility for their navigation and well being. The goal is to finish the entire route while setting your own pace.
 
