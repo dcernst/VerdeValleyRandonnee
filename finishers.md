@@ -114,6 +114,10 @@ Every finisher is eligible for a free Verde Valley Randonneé patch, which was d
 <td><a href="https://www.instagram.com/gnar_nasty/">Brandon Bettes</a></td> <td>Flagstaff, AZ</td> <td>11/8/2024</td> <td>Flagstaff</td> <td>CW</td> <td>48 hours, 5 minutes</td> <td>Rode with James Willis. Both rode singlespeeds!</td>
 </tr>
 
+<tr>
+<td>Matt Bowe</td> <td>Flagstaff, AZ</td> <td>4/13/2025</td> <td>Flagstaff</td> <td>CCW</td> <td>22 hours, 28 minutes</td> <td>Matt's ride on <a href="https://www.strava.com/activities/14176529605">Strava</a></td>
+</tr>
+
 </tbody>
 </table>
 </div>
