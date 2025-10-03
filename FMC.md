@@ -8,5 +8,5 @@ If you'd like to sign up for live tracking with [Follow My Challenge](https://us
 
 <center>
 <!-- <iframe src="https://www.followmychallenge.com/live/verde_valley_randonnee/?iframe" width="100%" height="800px" style="border:none;" allowfullscreen></iframe> -->
-<iframe src="https://www.followmychallenge.com/live/verdevalleyrandonnee/?iframe" width="100%" height="800px" style="border:none;" allowfullscreen></iframe>
+<iframe src="https://www.followmychallenge.com/live/verdevalleyrandonnee-2025/?iframe" width="100%" height="800px" style="border:none;" allowfullscreen></iframe>
 </center>
