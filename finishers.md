@@ -118,6 +118,10 @@ Every finisher is eligible for a free Verde Valley Randonneé patch, which was d
 <td>Matt Bowe</td> <td>Flagstaff, AZ</td> <td>4/13/2025</td> <td>Flagstaff</td> <td>CCW</td> <td>22 hours, 28 minutes</td> <td>Matt's ride on <a href="https://www.strava.com/activities/14176529605">Strava</a></td>
 </tr>
 
+<tr>
+<td><a href="https://www.instagram.com/dcernst/">Dana Ernst</a></td> <td>Flagstaff, AZ</td> <td>10/4/2025</td> <td>Flagstaff</td> <td>CW</td> <td>TBD</td> <td></td>
+</tr>
+
 </tbody>
 </table>
 </div>
