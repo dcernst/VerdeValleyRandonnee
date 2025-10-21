@@ -119,7 +119,7 @@ Every finisher is eligible for a free Verde Valley Randonneé patch, which was d
 </tr>
 
 <tr>
-<td><a href="https://www.instagram.com/dcernst/">Dana Ernst</a></td> <td>Flagstaff, AZ</td> <td>10/4/2025</td> <td>Flagstaff</td> <td>CW</td> <td>TBD</td> <td></td>
+<td><a href="https://www.instagram.com/dcernst/">Dana Ernst</a></td> <td>Flagstaff, AZ</td> <td>10/4/2025</td> <td>Camp Verde</td> <td>CW</td> <td>20 hours, 16 minutes</td> <td>Dana's ride on <a href="https://www.strava.com/activities/16037713274">Strava</a></td>
 </tr>
 
 </tbody>
