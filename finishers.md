@@ -126,6 +126,14 @@ Every finisher is eligible for a free Verde Valley Randonneé patch, which was d
 <td><a href="https://www.instagram.com/elbowrides/">Leigh Bowe</a></td> <td>Flagstaff, AZ</td> <td>4/12/2026</td> <td>Camp Verde</td> <td>CCW</td> <td>30 hours, 36 minutes</td> <td>Leigh's ride on <a href="https://www.strava.com/activities/18095900824">Strava</a></td>
 </tr>
 
+<tr>
+<td><a href="https://www.instagram.com/_jcrow_/">Jonathan Crowell</a></td> <td>Flagstaff, AZ</td> <td>6/27/2026</td> <td>Flagstaff</td> <td>CCW</td> <td>36 hours, 32 minutes</td> <td>Rode with Jack Scherer. Jonathan's ride on <a href="https://www.strava.com/activities/19104960007">Strava</a></td>
+</tr>
+
+<tr>
+<td><a href="https://www.instagram.com/jack.scherer/">Jack Scherer</a></td> <td>Flagstaff, AZ</td> <td>6/27/2026</td> <td>Flagstaff</td> <td>CCW</td> <td>36 hours, 32 minutes</td> <td>Rode with Jonathan Crowell. Jack's ride on <a href="https://www.strava.com/activities/19098773018">Strava</a></td>
+</tr>
+
 </tbody>
 </table>
 </div>
