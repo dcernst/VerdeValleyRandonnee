@@ -30,9 +30,16 @@ Every finisher is eligible for a free Verde Valley Randonneé patch, which was d
 
 ## Finishers
 
+<style>
+#finishers-table th:nth-child(3),
+#finishers-table td:nth-child(3) {
+text-align: right;
+}
+</style>
+
 <center>
 <div class="table-responsive">
-<table class="table table-striped">
+<table id="finishers-table" class="table table-striped">
 <thead>
 <tr>
 <th>Name</th>
