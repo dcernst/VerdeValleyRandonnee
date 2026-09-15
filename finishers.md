@@ -134,6 +134,10 @@ Every finisher is eligible for a free Verde Valley Randonneé patch, which was d
 <td><a href="https://www.instagram.com/jack.scherer/">Jack Scherer</a></td> <td>Flagstaff, AZ</td> <td>6/27/2026</td> <td>Flagstaff</td> <td>CCW</td> <td>36 hours, 32 minutes</td> <td>Rode with Jonathan Crowell. Jack's ride on <a href="https://www.strava.com/activities/19098773018">Strava</a>.</td>
 </tr>
 
+<tr>
+<td><a href="https://www.instagram.com/jack.scherer/">Jack Scherer</a></td> <td>Flagstaff, AZ</td> <td>9/5/2026</td> <td>Flagstaff</td> <td>CCW</td> <td>17 hours, 25 minutes</td> <td>Jack's ride on <a href="https://www.strava.com/activities/20062337091">Strava</a>. <b>Current FKT!</b></td>
+</tr>
+
 </tbody>
 </table>
 </div>
