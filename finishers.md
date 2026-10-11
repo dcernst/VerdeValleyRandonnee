@@ -146,11 +146,11 @@ text-align: right;
 </tr>
 
 <tr>
-<td><a href="https://www.instagram.com/caroline.y0ung/">Caroline Young</a></td> <td>Flagstaff, AZ</td> <td>10/9/2026</td> <td>Unconfirmed</td> <td>CCW</td> <td>29 hours, 45 minutes</td> <td>Rode with Aidan Woloszyn. Caroline's ride on <a href="https://www.strava.com/activities/20531356612">Strava</a>. <b>Current female FKT!</b></td>
+<td><a href="https://www.instagram.com/caroline.y0ung/">Caroline Young</a></td> <td>Flagstaff, AZ</td> <td>10/9/2026</td> <td>Flagstaff</td> <td>CCW</td> <td>29 hours, 45 minutes</td> <td>Rode with Aidan Woloszyn. Caroline's ride on <a href="https://www.strava.com/activities/20531356612">Strava</a>. <b>Current female FKT!</b></td>
 </tr>
 
 <tr>
-<td><a href="https://www.instagram.com/p/CuFsSoTuSi7/">Aidan Woloszyn</a></td> <td>Flagstaff, AZ</td> <td>10/9/2026</td> <td>Unconfirmed</td> <td>CCW</td> <td>29 hours, 45 minutes</td> <td>Rode with Caroline Young. Aidan's ride on <a href="https://www.strava.com/activities/20531540832">Strava</a>.</td>
+<td><a href="https://www.instagram.com/p/CuFsSoTuSi7/">Aidan Woloszyn</a></td> <td>Flagstaff, AZ</td> <td>10/9/2026</td> <td>Flagstaff</td> <td>CCW</td> <td>29 hours, 45 minutes</td> <td>Rode with Caroline Young. Aidan's ride on <a href="https://www.strava.com/activities/20531540832">Strava</a>.</td>
 </tr>
 
 </tbody>
