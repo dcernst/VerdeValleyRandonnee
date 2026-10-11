@@ -47,110 +47,110 @@ text-align: right;
 <th>Start Date</th>
 <th>Start Location</th>
 <th>Direction</th>
-<th>Elapsed Time</th>
+<th>Time (hh:mm)</th>
 <th>Notes</th>
 </tr>
 </thead>
 
 <tbody>
 <tr>
-<td><a href="https://www.instagram.com/ezra.ward.packard/">Ezra Ward-Packard</a></td> <td>Flagstaff, AZ</td> <td>10/26/2022</td> <td>Flagstaff</td> <td>CCW</td> <td>24 hours, 36 mins</td> <td>Ezra's ride on <a href="https://www.strava.com/activities/8027204031/">Strava</a>.</td>
+<td><a href="https://www.instagram.com/ezra.ward.packard/">Ezra Ward-Packard</a></td> <td>Flagstaff, AZ</td> <td>10/26/2022</td> <td>Flagstaff</td> <td>CCW</td> <td>24:36</td> <td>Ezra's ride on <a href="https://www.strava.com/activities/8027204031/">Strava</a>.</td>
 </tr>
 
 <tr>
-<td><a href="https://www.instagram.com/dcernst/">Dana Ernst</a></td> <td>Flagstaff, AZ</td> <td>10/29/2022</td> <td>Flagstaff</td> <td>CCW</td> <td>23 hours, 19 mins</td> <td>Rode with Jacob Miller. Dana's ride on <a href="https://www.strava.com/activities/8041489765">Strava</a>, <a href="https://anchor.fm/stokepodcast/episodes/Dana-Ernst-and-the-Verde-Valley-Randonnee-Bike-Packing-Adventure-e1qethg">Stoke Podcast</a>.</td>
+<td><a href="https://www.instagram.com/dcernst/">Dana Ernst</a></td> <td>Flagstaff, AZ</td> <td>10/29/2022</td> <td>Flagstaff</td> <td>CCW</td> <td>23:19</td> <td>Rode with Jacob Miller. Dana's ride on <a href="https://www.strava.com/activities/8041489765">Strava</a>, <a href="https://anchor.fm/stokepodcast/episodes/Dana-Ernst-and-the-Verde-Valley-Randonnee-Bike-Packing-Adventure-e1qethg">Stoke Podcast</a>.</td>
 </tr>
 
 <tr>
-<td><a href="https://www.instagram.com/jobymiller2/">Jacob Miller</a></td> <td>Flagstaff, AZ</td> <td>10/29/2022</td> <td>Flagstaff</td> <td>CCW</td> <td>23 hours, 19 mins</td> <td>Rode with Dana Ernst. Jacob's ride on <a href="https://www.strava.com/activities/8043371627">Strava</a>.</td>
+<td><a href="https://www.instagram.com/jobymiller2/">Jacob Miller</a></td> <td>Flagstaff, AZ</td> <td>10/29/2022</td> <td>Flagstaff</td> <td>CCW</td> <td>23:19</td> <td>Rode with Dana Ernst. Jacob's ride on <a href="https://www.strava.com/activities/8043371627">Strava</a>.</td>
 </tr>
 
 <tr>
-<td><a href="https://youtube.com/c/TheSeasonedBikepacker">Dylan Turner</a></td> <td>Flagstaff, AZ</td> <td>11/1/2022</td> <td>Flagstaff</td> <td>CCW</td> <td>26 hours, 45 mins</td> <td>Video recap on <a href="https://www.instagram.com/tv/CkgyU4eAbcx/?igshid=YmMyMTA2M2Y%3D">Instagram</a>.</td>
+<td><a href="https://youtube.com/c/TheSeasonedBikepacker">Dylan Turner</a></td> <td>Flagstaff, AZ</td> <td>11/1/2022</td> <td>Flagstaff</td> <td>CCW</td> <td>26:45</td> <td>Video recap on <a href="https://www.instagram.com/tv/CkgyU4eAbcx/?igshid=YmMyMTA2M2Y%3D">Instagram</a>.</td>
 </tr>
 
 <tr>
-<td><a href="https://youtube.com/c/TheSeasonedBikepacker">Dylan Turner</a></td> <td>Flagstaff, AZ</td> <td>9/30/2023</td> <td>Flagstaff</td> <td>CCW</td> <td>25 hours, 56 mins</td> <td>1.5-hour delay for road closure near Verde River.</td>
+<td><a href="https://youtube.com/c/TheSeasonedBikepacker">Dylan Turner</a></td> <td>Flagstaff, AZ</td> <td>9/30/2023</td> <td>Flagstaff</td> <td>CCW</td> <td>25:56</td> <td>1.5-hour delay for road closure near Verde River.</td>
 </tr>
 
 <tr>
-<td><a href="https://www.instagram.com/p/CuFsSoTuSi7/">Aidan Woloszyn</a></td> <td>Flagstaff, AZ</td> <td>10/3/2023</td> <td>Flagstaff</td> <td>CCW</td> <td>55 hours, 23 mins</td> <td>Rode with Austin Woloszyn, Aidan's ride on <a href="https://www.strava.com/activities/9988364663">Strava</a>.</td>
+<td><a href="https://www.instagram.com/p/CuFsSoTuSi7/">Aidan Woloszyn</a></td> <td>Flagstaff, AZ</td> <td>10/3/2023</td> <td>Flagstaff</td> <td>CCW</td> <td>55:23</td> <td>Rode with Austin Woloszyn, Aidan's ride on <a href="https://www.strava.com/activities/9988364663">Strava</a>.</td>
 </tr>
 
 <tr>
-<td><a href="https://www.instagram.com/austin.wolo/">Austin Woloszyn</a></td> <td>Flagstaff, AZ</td> <td>10/3/2023</td> <td>Flagstaff</td> <td>CCW</td> <td>55 hours, 23 mins</td> <td>Rode with Aidan Woloszyn.</td>
+<td><a href="https://www.instagram.com/austin.wolo/">Austin Woloszyn</a></td> <td>Flagstaff, AZ</td> <td>10/3/2023</td> <td>Flagstaff</td> <td>CCW</td> <td>55:23</td> <td>Rode with Aidan Woloszyn.</td>
 </tr>
 
 <tr>
-<td><a href="https://www.instagram.com/dcernst/">Dana Ernst</a></td> <td>Flagstaff, AZ</td> <td>4/20/2024</td> <td>Flagstaff</td> <td>CCW</td> <td>19 hours, 17 mins</td> <td>Started with small group including Dylan Turner, Dana's ride on <a href="https://www.strava.com/activities/11229228703">Strava</a>.</td>
+<td><a href="https://www.instagram.com/dcernst/">Dana Ernst</a></td> <td>Flagstaff, AZ</td> <td>4/20/2024</td> <td>Flagstaff</td> <td>CCW</td> <td>19:17</td> <td>Started with small group including Dylan Turner, Dana's ride on <a href="https://www.strava.com/activities/11229228703">Strava</a>.</td>
 </tr>
 
 <tr>
-<td><a href="https://www.youtube.com/@TheEnduranceStudio/featured">Dylan Turner</a></td> <td>Flagstaff, AZ</td> <td>4/20/2024</td> <td>Flagstaff</td> <td>CCW</td> <td>22 hours, 36 mins</td> <td>Started with small group including Dana Ernst.</td>
+<td><a href="https://www.youtube.com/@TheEnduranceStudio/featured">Dylan Turner</a></td> <td>Flagstaff, AZ</td> <td>4/20/2024</td> <td>Flagstaff</td> <td>CCW</td> <td>22:36</td> <td>Started with small group including Dana Ernst.</td>
 </tr>
 
 <tr>
-<td><a href="https://www.instagram.com/jeffkerkove/">Jeff Kerkove</a></td> <td>Buena Vista, CO</td> <td>4/29/2024</td> <td>Flagstaff</td> <td>CCW</td> <td>20 hours, 5 mins</td> <td>Jeff's ride on <a href="https://www.strava.com/activities/11296962400">Strava</a>.</td>
+<td><a href="https://www.instagram.com/jeffkerkove/">Jeff Kerkove</a></td> <td>Buena Vista, CO</td> <td>4/29/2024</td> <td>Flagstaff</td> <td>CCW</td> <td>20:05</td> <td>Jeff's ride on <a href="https://www.strava.com/activities/11296962400">Strava</a>.</td>
 </tr>
 
 <tr>
-<td><a href="https://www.instagram.com/kopeus/">Dexter Kopas</a></td> <td>Tucson, AZ</td> <td>5/4/2024</td> <td>Camp Verde</td> <td>CCW</td> <td>18 hours, 30 minutes</td> <td>Dexter's ride on <a href="https://www.strava.com/activities/11335138422">Strava</a>.</td>
+<td><a href="https://www.instagram.com/kopeus/">Dexter Kopas</a></td> <td>Tucson, AZ</td> <td>5/4/2024</td> <td>Camp Verde</td> <td>CCW</td> <td>18:30</td> <td>Dexter's ride on <a href="https://www.strava.com/activities/11335138422">Strava</a>.</td>
 </tr>
 
 <tr>
-<td>Brad Mattingly</td> <td>Flagstaff, AZ</td> <td>10/4/2024</td> <td>Flagstaff</td> <td>CW</td> <td>48 hours, 28 minutes</td> <td>First person to ride route clockwise!</td>
+<td>Brad Mattingly</td> <td>Flagstaff, AZ</td> <td>10/4/2024</td> <td>Flagstaff</td> <td>CW</td> <td>48:28</td> <td>First person to ride route clockwise!</td>
 </tr>
 
 <tr>
-<td><a href="https://www.youtube.com/@TheEnduranceStudio/featured">Dylan Turner</a></td> <td>Flagstaff, AZ</td> <td>10/13/2024</td> <td>Flagstaff</td> <td>CW</td> <td>54 hours</td> <td>Rode with Dan Hughes and Tyler Hughes.</td>
+<td><a href="https://www.youtube.com/@TheEnduranceStudio/featured">Dylan Turner</a></td> <td>Flagstaff, AZ</td> <td>10/13/2024</td> <td>Flagstaff</td> <td>CW</td> <td>54:00</td> <td>Rode with Dan Hughes and Tyler Hughes.</td>
 </tr>
 
 <tr>
-<td><a href="https://www.instagram.com/tylerhasaphone/">Tyler Hughes</a></td> <td>Flagstaff, AZ</td> <td>10/13/2024</td> <td>Flagstaff</td> <td>CW</td> <td>54 hours</td> <td>Rode with Dan Hughes and Dylan Turner.</td>
+<td><a href="https://www.instagram.com/tylerhasaphone/">Tyler Hughes</a></td> <td>Flagstaff, AZ</td> <td>10/13/2024</td> <td>Flagstaff</td> <td>CW</td> <td>54:00</td> <td>Rode with Dan Hughes and Dylan Turner.</td>
 </tr>
 
 <tr>
-<td>Dan Hughes</td> <td>Santa Cruz, CA</td> <td>10/13/2024</td> <td>Flagstaff</td> <td>CW</td> <td>54 hours</td> <td>Rode with Tyler Hughes and Dylan Turner.</td>
+<td>Dan Hughes</td> <td>Santa Cruz, CA</td> <td>10/13/2024</td> <td>Flagstaff</td> <td>CW</td> <td>54:00</td> <td>Rode with Tyler Hughes and Dylan Turner.</td>
 </tr>
 
 <tr>
-<td><a href="https://www.instagram.com/ultraleisurist27/">James Willis</a></td> <td>Flagstaff, AZ</td> <td>11/8/2024</td> <td>Flagstaff</td> <td>CW</td> <td>48 hours, 5 minutes</td> <td>Rode with Brandon Bettes. Both rode singlespeeds!</td>
+<td><a href="https://www.instagram.com/ultraleisurist27/">James Willis</a></td> <td>Flagstaff, AZ</td> <td>11/8/2024</td> <td>Flagstaff</td> <td>CW</td> <td>48:05</td> <td>Rode with Brandon Bettes. Both rode singlespeeds!</td>
 </tr>
 
 <tr>
-<td><a href="https://www.instagram.com/gnar_nasty/">Brandon Bettes</a></td> <td>Flagstaff, AZ</td> <td>11/8/2024</td> <td>Flagstaff</td> <td>CW</td> <td>48 hours, 5 minutes</td> <td>Rode with James Willis. Both rode singlespeeds!</td>
+<td><a href="https://www.instagram.com/gnar_nasty/">Brandon Bettes</a></td> <td>Flagstaff, AZ</td> <td>11/8/2024</td> <td>Flagstaff</td> <td>CW</td> <td>48:05</td> <td>Rode with James Willis. Both rode singlespeeds!</td>
 </tr>
 
 <tr>
-<td>Matt Bowe</td> <td>Flagstaff, AZ</td> <td>4/13/2025</td> <td>Flagstaff</td> <td>CCW</td> <td>22 hours, 28 minutes</td> <td>Matt's ride on <a href="https://www.strava.com/activities/14176529605">Strava</a>.</td>
+<td>Matt Bowe</td> <td>Flagstaff, AZ</td> <td>4/13/2025</td> <td>Flagstaff</td> <td>CCW</td> <td>22:28</td> <td>Matt's ride on <a href="https://www.strava.com/activities/14176529605">Strava</a>.</td>
 </tr>
 
 <tr>
-<td><a href="https://www.instagram.com/dcernst/">Dana Ernst</a></td> <td>Flagstaff, AZ</td> <td>10/4/2025</td> <td>Camp Verde</td> <td>CW</td> <td>20 hours, 16 minutes</td> <td>Dana's ride on <a href="https://www.strava.com/activities/16037713274">Strava</a>.</td>
+<td><a href="https://www.instagram.com/dcernst/">Dana Ernst</a></td> <td>Flagstaff, AZ</td> <td>10/4/2025</td> <td>Camp Verde</td> <td>CW</td> <td>20:16</td> <td>Dana's ride on <a href="https://www.strava.com/activities/16037713274">Strava</a>.</td>
 </tr>
 
 <tr>
-<td><a href="https://www.instagram.com/elbowrides/">Leigh Bowe</a></td> <td>Flagstaff, AZ</td> <td>4/12/2026</td> <td>Camp Verde</td> <td>CCW</td> <td>30 hours, 36 minutes</td> <td>Leigh's ride on <a href="https://www.strava.com/activities/18095900824">Strava</a>.</td>
+<td><a href="https://www.instagram.com/elbowrides/">Leigh Bowe</a></td> <td>Flagstaff, AZ</td> <td>4/12/2026</td> <td>Camp Verde</td> <td>CCW</td> <td>30:36</td> <td>Leigh's ride on <a href="https://www.strava.com/activities/18095900824">Strava</a>.</td>
 </tr>
 
 <tr>
-<td><a href="https://www.instagram.com/_jcrow_/">Jonathan Crowell</a></td> <td>Flagstaff, AZ</td> <td>6/27/2026</td> <td>Flagstaff</td> <td>CCW</td> <td>36 hours, 32 minutes</td> <td>Rode with Jack Scherer. Jonathan's ride on <a href="https://www.strava.com/activities/19104960007">Strava</a>.</td>
+<td><a href="https://www.instagram.com/_jcrow_/">Jonathan Crowell</a></td> <td>Flagstaff, AZ</td> <td>6/27/2026</td> <td>Flagstaff</td> <td>CCW</td> <td>36:32</td> <td>Rode with Jack Scherer. Jonathan's ride on <a href="https://www.strava.com/activities/19104960007">Strava</a>.</td>
 </tr>
 
 <tr>
-<td><a href="https://www.instagram.com/jack.scherer/">Jack Scherer</a></td> <td>Flagstaff, AZ</td> <td>6/27/2026</td> <td>Flagstaff</td> <td>CCW</td> <td>36 hours, 32 minutes</td> <td>Rode with Jonathan Crowell. Jack's ride on <a href="https://www.strava.com/activities/19098773018">Strava</a>.</td>
+<td><a href="https://www.instagram.com/jack.scherer/">Jack Scherer</a></td> <td>Flagstaff, AZ</td> <td>6/27/2026</td> <td>Flagstaff</td> <td>CCW</td> <td>36:32</td> <td>Rode with Jonathan Crowell. Jack's ride on <a href="https://www.strava.com/activities/19098773018">Strava</a>.</td>
 </tr>
 
 <tr>
-<td><a href="https://www.instagram.com/jack.scherer/">Jack Scherer</a></td> <td>Flagstaff, AZ</td> <td>9/5/2026</td> <td>Flagstaff</td> <td>CCW</td> <td>17 hours, 25 minutes</td> <td>Jack's ride on <a href="https://www.strava.com/activities/20062337091">Strava</a>. <b>Current FKT!</b></td>
+<td><a href="https://www.instagram.com/jack.scherer/">Jack Scherer</a></td> <td>Flagstaff, AZ</td> <td>9/5/2026</td> <td>Flagstaff</td> <td>CCW</td> <td>17:25</td> <td>Jack's ride on <a href="https://www.strava.com/activities/20062337091">Strava</a>. <b>Current FKT!</b></td>
 </tr>
 
 <tr>
-<td><a href="https://www.instagram.com/caroline.y0ung/">Caroline Young</a></td> <td>Flagstaff, AZ</td> <td>10/9/2026</td> <td>Flagstaff</td> <td>CCW</td> <td>29 hours, 45 minutes</td> <td>Rode with Aidan Woloszyn. Caroline's ride on <a href="https://www.strava.com/activities/20531356612">Strava</a>. <b>Current female FKT!</b></td>
+<td><a href="https://www.instagram.com/caroline.y0ung/">Caroline Young</a></td> <td>Flagstaff, AZ</td> <td>10/9/2026</td> <td>Flagstaff</td> <td>CCW</td> <td>29:45</td> <td>Rode with Aidan Woloszyn. Caroline's ride on <a href="https://www.strava.com/activities/20531356612">Strava</a>. <b>Current female FKT!</b></td>
 </tr>
 
 <tr>
-<td><a href="https://www.instagram.com/p/CuFsSoTuSi7/">Aidan Woloszyn</a></td> <td>Flagstaff, AZ</td> <td>10/9/2026</td> <td>Flagstaff</td> <td>CCW</td> <td>29 hours, 45 minutes</td> <td>Rode with Caroline Young. Aidan's ride on <a href="https://www.strava.com/activities/20531540832">Strava</a>.</td>
+<td><a href="https://www.instagram.com/p/CuFsSoTuSi7/">Aidan Woloszyn</a></td> <td>Flagstaff, AZ</td> <td>10/9/2026</td> <td>Flagstaff</td> <td>CCW</td> <td>29:45</td> <td>Rode with Caroline Young. Aidan's ride on <a href="https://www.strava.com/activities/20531540832">Strava</a>.</td>
 </tr>
 
 </tbody>
