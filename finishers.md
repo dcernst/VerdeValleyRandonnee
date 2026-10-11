@@ -145,6 +145,14 @@ text-align: right;
 <td><a href="https://www.instagram.com/jack.scherer/">Jack Scherer</a></td> <td>Flagstaff, AZ</td> <td>9/5/2026</td> <td>Flagstaff</td> <td>CCW</td> <td>17 hours, 25 minutes</td> <td>Jack's ride on <a href="https://www.strava.com/activities/20062337091">Strava</a>. <b>Current FKT!</b></td>
 </tr>
 
+<tr>
+<td><a href="https://www.instagram.com/caroline.y0ung/">Caroline Young</a></td> <td>Flagstaff, AZ</td> <td>10/9/2026</td> <td>Unconfirmed</td> <td>CCW</td> <td>29 hours, 45 minutes</td> <td>Rode with Aidan Woloszyn. Caroline's ride on <a href="https://www.strava.com/activities/20531356612">Strava</a>. <b>Current female FKT!</b></td>
+</tr>
+
+<tr>
+<td><a href="https://www.instagram.com/p/CuFsSoTuSi7/">Aidan Woloszyn</a></td> <td>Flagstaff, AZ</td> <td>10/9/2026</td> <td>Unconfirmed</td> <td>CCW</td> <td>29 hours, 45 minutes</td> <td>Rode with Caroline Young. Aidan's ride on <a href="https://www.strava.com/activities/20531540832">Strava</a>.</td>
+</tr>
+
 </tbody>
 </table>
 </div>
