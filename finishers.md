@@ -45,7 +45,7 @@ text-align: right;
 <th>Name</th>
 <th>Hometown</th>
 <th>Start Date</th>
-<th>Start Location</th>
+<th>Start</th>
 <th>Direction</th>
 <th>Time (hh:mm)</th>
 <th>Notes</th>
