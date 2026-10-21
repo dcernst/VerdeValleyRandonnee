@@ -142,7 +142,7 @@ text-align: right;
 </tr>
 
 <tr>
-<td><a href="https://www.instagram.com/jack.scherer/">Jack Scherer</a></td> <td>Flagstaff, AZ</td> <td>9/5/2026</td> <td>Flagstaff</td> <td>CCW</td> <td>17:25</td> <td>Jack's ride on <a href="https://www.strava.com/activities/20062337091">Strava</a>. <b>Current FKT!</b></td>
+<td><a href="https://www.instagram.com/jack.scherer/">Jack Scherer</a></td> <td>Flagstaff, AZ</td> <td>9/5/2026</td> <td>Flagstaff</td> <td>CCW</td> <td>17:25</td> <td>Jack's ride on <a href="https://www.strava.com/activities/20062337091">Strava</a>, recap on his <a href="https://sheerspeed.substack.com/p/verde-valley-randonnee">Substack</a>. <b>Current FKT!</b></td>
 </tr>
 
 <tr>
